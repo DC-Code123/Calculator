@@ -5,5 +5,5 @@ Performs the Basic 4 operations;
   -Division(/)
 
 And additionals;
-  -Exponentiation(e,pow(base,exponent)with #include<cmath>) Powering
-  -Square Root(Sqrt()with #include<cmath>)
+  -Exponentiation(e, pow(base,exponent) with #include<cmath>)/Powering
+  -Square Root(Sqrt() with #include<cmath>)
