@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1744459188 source:c:\users\hp\documents\dca\programming\projects\ideas-testing\calculator\src\funcs.cpp
+	"../include/Calculator.h"
+
+1744455255 c:\users\hp\documents\dca\programming\projects\ideas-testing\calculator\include\calculator.h
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+	<limits>
+
+1744455998 source:c:\users\hp\documents\dca\programming\projects\ideas-testing\calculator\src\main.cpp
+	"../include/Calculator.h"
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Calculator" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Calculator" prefix_auto="1" extension_auto="1" />
+				<Option object_output="build/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="bin/Calculator.exe" />
+		<Unit filename="build/Calculator.depend" />
+		<Unit filename="build/Calculator.layout" />
+		<Unit filename="build/Funcs.o" />
+		<Unit filename="build/main.o" />
+		<Unit filename="data/values.txt" />
+		<Unit filename="include/Calculator.h" />
+		<Unit filename="src/Funcs.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
